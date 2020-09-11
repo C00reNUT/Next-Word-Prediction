@@ -9,7 +9,7 @@ with open('README.md') as readme_file:
 
 setup(
     name="next_word_prediction",
-    version="0.1.0",
+    version="0.1.1",
     description="Experiment on the Generative Pretrained Transformer 2 (GPT-2) for Language Modeling task using the PyTorch-Transformers library.",
     long_description=README,
     long_description_content_type="text/markdown",

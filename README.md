@@ -4,7 +4,7 @@ Experiment on the Generative Pretrained Transformer 2 (GPT-2) for Language Model
 ## Installation
 Requires python>=3.5, pytorch>=1.6.0, pytorch-transformers>=1.2.0
 ```bash
-pip install next-word-prediction==0.1.5 pytorch-transformers==1.2.0 torch==1.6.0
+pip install next-word-prediction
 ```
 
 ## How to use
